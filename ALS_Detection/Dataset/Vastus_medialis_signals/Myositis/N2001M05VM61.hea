@@ -1,0 +1,18 @@
+N2001M05VM61 1 23437.5 262124
+N2001M05VM61.bin 16+20 13.1070/uV
+#gender: F
+#age: 63
+#diagnosis: Polymyositis
+#duration: < 1 month
+#muscle: Vastus medialis
+#side: Right
+#protocol: steady isometric contraction
+#level: low
+#electrode: concentric needle
+#high-pass filter: 2 Hz
+#low-pass filter: 10 kHz
+#gain: 500
+#contributor: Miki Nikolic, Dept Clinical Neurophysiology, Rigshospital, Copenhagen
+#date: 08/2001
+#indentifier: C:\Documents and Settings\Zhelyazko Tumbev\Desktop\New Folder (4)\Recordings\1ch\37025\111\EMGDAT\11.bin
+#contact: mn@e-med.dk
