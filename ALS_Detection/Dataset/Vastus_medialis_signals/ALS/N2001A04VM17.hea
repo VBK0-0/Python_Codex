@@ -1,0 +1,18 @@
+N2001A04VM17 1 23437.5 262124
+N2001A04VM17.bin 16+20 13.1070/uV
+#gender: F
+#age: 67
+#diagnosis: ALS
+#duration: 0.5 years
+#muscle: Vastus medialis
+#side: Left
+#protocol: steady isometric contraction
+#level: low
+#electrode: concentric needle
+#high-pass filter: 2 Hz
+#low-pass filter: 10 kHz
+#gain: 500
+#contributor: Miki Nikolic, Dept Clinical Neurophysiology, Rigshospital, Copenhagen
+#date: 08/2001
+#indentifier: C:\Documents and Settings\Zhelyazko Tumbev\Desktop\New Folder (4)\Recordings\1ch\37334\110\EMGDAT\17.bin
+#contact: mn@e-med.dk
