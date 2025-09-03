@@ -1,0 +1,18 @@
+N2001M07VM04 1 23437.5 262124
+N2001M07VM04.bin 16+20 13.1070/uV
+#gender: M
+#age: 19
+#diagnosis: Myopathy unclassified
+#duration: 0 years
+#muscle: Vastus medialis
+#side: Left
+#protocol: steady isometric contraction
+#level: low
+#electrode: concentric needle
+#high-pass filter: 2 Hz
+#low-pass filter: 10 kHz
+#gain: 500
+#contributor: Miki Nikolic, Dept Clinical Neurophysiology, Rigshospital, Copenhagen
+#date: 08/2001
+#indentifier: C:\Documents and Settings\Zhelyazko Tumbev\Desktop\New Folder (4)\Recordings\1ch\38682\110\EMGDAT\4.bin
+#contact: mn@e-med.dk
