@@ -1,0 +1,18 @@
+N2001C01BB51 1 23437.5 262124
+N2001C01BB51.bin 16+20 13.1070/uV
+#gender: M
+#age: 29
+#diagnosis: healty controls
+#duration: 
+#muscle: Biceps brachii (long head)
+#side: Right
+#protocol: steady isometric contraction
+#level: low
+#electrode: concentric needle
+#high-pass filter: 2 Hz
+#low-pass filter: 10 kHz
+#gain: 500
+#contributor: Miki Nikolic, Dept Clinical Neurophysiology, Rigshospital, Copenhagen
+#date: 08/2001
+#indentifier: C:\Documents and Settings\Zhelyazko Tumbev\Desktop\New Folder (4)\Recordings\1ch\36744\5\EMGDAT\1.bin
+#contact: mn@e-med.dk
